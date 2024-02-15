@@ -4,9 +4,10 @@ chapitre: table de matière
 order: 0
 ---
 # Table de matière
-<!-- note -->
 - [Table de matière]()
-- [introduction](#introduction)
+- [Ville de Taza](#ville-de-taza)
+  - [Introduction](#introduction)
+  - [Histoire](#histoire)
 - [Géographie](#géographie)
 - [Climat](#climate)
 - [Conclusion](#conclusion)
